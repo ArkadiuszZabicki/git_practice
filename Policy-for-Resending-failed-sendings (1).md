@@ -52,6 +52,7 @@ Sending that was scheduled by the customer within the service, but was not proce
 
 **Resend window**
 Counted in minutes: the difference between sending schedule time and the moment of manual resend performed by Incident Response Team
+
 ---
 
 ## Roles & Responsibilities
